@@ -1,0 +1,23 @@
+SITE_URL##div.col-15.col-md-9.col-sm-9
+SITE_URL##div.col-15.col-md-3.col-sm-3 > div:nth-child(2)
+SITE_URL###at-main > div:nth-child(2) > div:nth-child(2)
+SITE_URL###at-right > div > div:nth-child(2)
+SITE_URL###sticky-wrapper > section > ul > li:nth-child(5)
+SITE_URL###sticky-wrapper > section > ul > li:nth-child(6)
+SITE_URL###sticky-wrapper > section > ul > li:nth-child(7)
+SITE_URL###at-main > div.view-wrap > section > article > div:nth-child(4)
+SITE_URL###at-main > div.view-wrap > div.well.text-center
+SITE_URL###at-right
+SITE_URL###viewcomment
+SITE_URL###at-main > div.view-wrap > section > article > div.print-hide.view-good-box
+SITE_URL###at-main > div.view-wrap > section > article > p.view-tag.view-padding.font-12
+SITE_URL###content_wrapper > div.page-title
+SITE_URL###at-main > div.view-wrap > section > article > div:nth-child(7)
+SITE_URL###at-main > div.view-wrap > section > article > div:nth-child(8)
+SITE_URL###at-main > div.view-wrap > section > article > p:nth-child(9)
+SITE_URL###at-main > div.view-wrap > section > article > div:nth-child(10)
+SITE_URL###at-main > div.view-wrap > section > article > div.comic-navbar
+SITE_URL###id_mbv
+SITE_URL##body > div.at-go
+SITE_URL###at-main > div.view-wrap > div.btn-resource.btn-prev.at-tip
+SITE_URL###sticky-wrapper > div.m-menu
